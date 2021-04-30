@@ -1,4 +1,4 @@
-# Task-Tracker (Or Event tracker (Reminder App with Reacjs))
+# Task-Tracker ( Event tracker (Reminder) ) App with Reacjs
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
